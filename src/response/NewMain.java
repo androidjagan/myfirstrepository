@@ -16,7 +16,7 @@ import java.util.Date;
 public class NewMain {
     public static void main(String[] args) {
         System.out.println(new SimpleDateFormat("dd/MM/yyyy hh:mm:ss a").format(new Date()));
-        
+        System.out.println("Testing sample one");
     }
     
 }
